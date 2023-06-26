@@ -11,3 +11,4 @@ This repository contains a C++ implementation of the Quick Sort algorithm.
 
    ```bash
    g++ quick_sort.cpp -o quick_sort
+ 
